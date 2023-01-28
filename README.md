@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### "Personal WebSite" Project is now CLOSED due to too much personal infos were in Project
+#### "Personal WebSite" Project is now CLOSED due to too much my personal infos were in Project
 <!--
 **Luna0214/Luna0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
